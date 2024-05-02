@@ -1,2 +1,2 @@
-# WordleHelper
-A helper for the daily wordle.
+# NYT Games Helper
+A helper for the NYT Games app puzzles.
